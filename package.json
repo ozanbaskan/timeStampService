@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/ozanbaskan/timeStampMicroservice/issues"
   },
-  "homepage": "https://github.com/ozanbaskan/timeStampMicroservice#readme",
+  "homepage": "https://ozanbaskan.github.io/timeStampService",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
